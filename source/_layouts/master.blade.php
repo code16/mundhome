@@ -9,7 +9,7 @@
         <link rel="stylesheet" href="{{ mix('css/main.css', 'assets/build') }}">
     </head>
     <body>
-        <div class="container mt-2" id="app">
+        <div class="container mt-4" id="app">
             <a class="header text-center" href="/">
                 <div class="text-hide logo">le Mundhome</div>
                 <div class="baseline mt-4 mb-4">
