@@ -31,7 +31,7 @@
                                 <a class="nav-link" href="/chambre-1">la chambre 1</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="#">la chambre 2</a>
+                                <a class="nav-link" href="/chambre-2">la chambre 2</a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" href="#">petit-déjeuner</a>
