@@ -9,45 +9,37 @@
     <body>
         <div class="container mt-2" id="app">
             <a class="header text-center" href="/">
-                <div class="logo h1">le Mundhome</div>
-                <div class="baseline mt-2 mb-2">
-                    <div class="font-weight-bold">Chambres d'hôtes</div>
-                    <div><span class="font-weight-bold">de confort</span> à Mundolsheim</div>
-                    <div>Eurométropole Strasbourg</div>
+                <div class="text-hide logo">le Mundhome</div>
+                <div class="baseline mt-4 mb-4">
+                    <span class="font-weight-bold">Chambres d'hôtes</span>
+                    <br><span class="font-weight-bold">de confort</span> à Mundolsheim
+                    <br>Eurométropole Strasbourg
                 </div>
             </a>
 
-            <div class="menu">
-                <nav class="navbar navbar-expand-lg navbar-light bg-light">
-                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
-                        <span class="navbar-toggler-icon"></span>
-                    </button>
-                    <div class="collapse navbar-collapse" id="navbarNavDropdown">
-                        <ul class="navbar-nav m-auto">
-                            <li class="nav-item">
-                                <a class="nav-link" href="/maison">la maison</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link" href="/chambre-1">la chambre 1</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link" href="/chambre-2">la chambre 2</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link" href="/petit-dejeuner">petit-déjeuner</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link" href="/situation">situation</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link" href="/fidelite">carte de fidélité</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link" href="/contact">nous contacter</a>
-                            </li>
-                        </ul>
-                    </div>
-                </nav>
+            <div class="menu mb-3 mt-3 text-center">
+                <a href="/maison" class="{{ $page->selected('maison') }}">
+                    <span class="d-none d-sm-inline-block">la </span>maison
+                </a>
+                <a href="/chambre-1" class="{{ $page->selected('chambre-1') }}">
+                    <span class="d-none d-sm-inline-block">la </span>chambre 1
+                </a>
+                <a href="/chambre-2" class="{{ $page->selected('chambre-2') }}">
+                    <span class="d-none d-sm-inline-block">la </span>chambre 2
+                </a>
+                <a href="/petit-dejeuner" class="{{ $page->selected('petit-dejeuner') }}">
+                    petit-déjeuner
+                </a>
+                <a href="/situation" class="{{ $page->selected('situation') }}">
+                    situation
+                </a>
+                <a href="/fidelite" class="d-none d-sm-inline-block {{ $page->selected('fidelite') }}">
+                    carte de fidélité
+                </a>
+                <a href="/contact" class="{{ $page->selected('contact') }}">
+                    <span class="d-none d-sm-inline-block">nous contacter</span>
+                    <span class="d-sm-none">contact</span>
+                </a>
             </div>
 
             @yield('body')
