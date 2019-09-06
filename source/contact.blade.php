@@ -1,5 +1,7 @@
 @extends('_layouts.master')
 
+@section("title", "Contact | ")
+
 @section('body')
     <img src="/assets/images/contact/hero.jpg" alt="Le Mundhome, nous contacter" class="img-fluid">
 

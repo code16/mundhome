@@ -1,5 +1,7 @@
 @extends('_layouts.master')
 
+@section("title", "La chambre 2 | ")
+
 @section('body')
     <img src="/assets/images/room-2/hero.jpg" alt="Le Mundhome, chambre 2" class="img-fluid">
 

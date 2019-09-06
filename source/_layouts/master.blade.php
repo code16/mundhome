@@ -4,6 +4,8 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <title>@yield("title") Le Mundhome, Chambres d’hôtes à Mundolsheim</title>
+        <meta name="description" content="Chambres d’hôtes de confort à Mundolsheim, Eurométropole de Strasbourg (Alsace / Grand Est, France)">
         <link rel="stylesheet" href="{{ mix('css/main.css', 'assets/build') }}">
     </head>
     <body>

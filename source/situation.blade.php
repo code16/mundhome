@@ -1,5 +1,7 @@
 @extends('_layouts.master')
 
+@section("title", "La situation | ")
+
 @section('body')
     <img src="/assets/images/tourism/hero.jpg" alt="Le Mundhome, tourisme et activités" class="img-fluid">
 

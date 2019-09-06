@@ -1,5 +1,7 @@
 @extends('_layouts.master')
 
+@section("title", "Petit-déjeuner | ")
+
 @section('body')
     <img src="/assets/images/breakfast/hero.jpg" alt="Le Mundhome, petit-déjeuner" class="img-fluid">
 

@@ -1,5 +1,7 @@
 @extends('_layouts.master')
 
+@section("title", "La maison | ")
+
 @section('body')
     <img src="/assets/images/house/hero.jpg" alt="Le Mundhome, la maison" class="img-fluid">
 
@@ -60,18 +62,18 @@
 
     <div class="content">
         <p>
-            dans l’axe de la maison s’étend le jardin, tout en longueur.
+            Dans l’axe de la maison s’étend le jardin, tout en longueur.
             <br>L’usage du jardin est réservé à la famille du propriétaire&nbsp;;
             cependant, celui-ci se fera un plaisir de vous le faire découvrir.
         </p>
         <p>
             Après la cour dominée par un cèdre majestueux, le jardin se structure autour
             d’une allée de rosiers grimpants Ronsard en arceaux.
-            <br>Dans une surface relativement modeste (2400 m2) , on y trouve tout à la fois
+            <br>Dans une surface relativement modeste (2400 m<sup>2</sup>) , on y trouve tout à la fois
             une pelouse, un potager, un verger, un parc d’arbres centenaires,
             un bassin (en construction), les berges d’une rivière, un portique de jeux d’enfants
             et une petite piscine. Des animaux y vivent, poules, poissons, abeilles
-            (qui produisent le « miel du Mundhome »).
+            (qui produisent le «&nbsp;miel du Mundhome&nbsp;»).
         </p>
     </div>
 @endsection

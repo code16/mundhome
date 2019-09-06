@@ -1,5 +1,7 @@
 @extends('_layouts.master')
 
+@section("title", "La carte de fidélité | ")
+
 @section('body')
     <img src="/assets/images/fidelity/hero.jpg" alt="Le Mundhome, carte de fidélité" class="img-fluid">
 
