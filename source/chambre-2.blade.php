@@ -52,24 +52,16 @@
     <div class="ml-lg-5 pl-lg-5 pr-lg-5 mr-lg-5 mb-5">
         <div class="row m-auto">
             <div class="col-6 col-md-3 px-1 py-1">
-                <a href="/assets/images/room-2/1.jpg">
-                    <img src="/assets/images/room-2/1-thumb.jpg" alt="La chambre 2" class="img-fluid">
-                </a>
+                <img v-img:group="{src:'/assets/images/room-2/1.jpg'}" src="/assets/images/room-2/1-thumb.jpg" alt="La chambre 2" class="img-fluid">
             </div>
             <div class="col-6 col-md-3 px-1 py-1">
-                <a href="/assets/images/room-2/2.jpg">
-                    <img src="/assets/images/room-2/2-thumb.jpg" alt="La chambre 2" class="img-fluid">
-                </a>
+                <img v-img:group="{src:'/assets/images/room-2/2.jpg'}" src="/assets/images/room-2/2-thumb.jpg" alt="La chambre 2" class="img-fluid">
             </div>
             <div class="col-6 col-md-3 px-1 py-1">
-                <a href="/assets/images/room-2/3.jpg">
-                    <img src="/assets/images/room-2/3-thumb.jpg" alt="La chambre 2 : sale de bains" class="img-fluid">
-                </a>
+                <img v-img:group="{src:'/assets/images/room-2/3.jpg'}" src="/assets/images/room-2/3-thumb.jpg" alt="La chambre 2 : sale de bains" class="img-fluid">
             </div>
             <div class="col-6 col-md-3 px-1 py-1">
-                <a href="/assets/images/room-2/4.jpg">
-                    <img src="/assets/images/room-2/4-thumb.jpg" alt="La chambre 2 : salon" class="img-fluid">
-                </a>
+                <img v-img:group="{src:'/assets/images/room-2/4.jpg'}" src="/assets/images/room-2/4-thumb.jpg" alt="La chambre 2 : salon" class="img-fluid">
             </div>
         </div>
     </div>

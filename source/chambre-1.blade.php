@@ -44,24 +44,16 @@
     <div class="ml-lg-5 pl-lg-5 pr-lg-5 mr-lg-5 mb-5">
         <div class="row m-auto">
             <div class="col-6 col-md-3 px-1 py-1">
-                <a href="/assets/images/room-1/1.jpg">
-                    <img src="/assets/images/room-1/1-thumb.jpg" alt="La chambre 1" class="img-fluid">
-                </a>
+                <img v-img:group="{src:'/assets/images/room-1/1.jpg'}" src="/assets/images/room-1/1-thumb.jpg" alt="La chambre 1" class="img-fluid">
             </div>
             <div class="col-6 col-md-3 px-1 py-1">
-                <a href="/assets/images/room-1/2.jpg">
-                    <img src="/assets/images/room-1/2-thumb.jpg" alt="La chambre 1" class="img-fluid">
-                </a>
+                <img v-img:group="{src:'/assets/images/room-1/2.jpg'}" src="/assets/images/room-1/2-thumb.jpg" alt="La chambre 1" class="img-fluid">
             </div>
             <div class="col-6 col-md-3 px-1 py-1">
-                <a href="/assets/images/room-1/3.jpg">
-                    <img src="/assets/images/room-1/3-thumb.jpg" alt="La chambre 1" class="img-fluid">
-                </a>
+                <img v-img:group="{src:'/assets/images/room-1/3.jpg'}" src="/assets/images/room-1/3-thumb.jpg" alt="La chambre 1" class="img-fluid">
             </div>
             <div class="col-6 col-md-3 px-1 py-1">
-                <a href="/assets/images/room-1/4.jpg">
-                    <img src="/assets/images/room-1/4-thumb.jpg" alt="La chambre 1" class="img-fluid">
-                </a>
+                <img v-img:group="{src:'/assets/images/room-1/4.jpg'}" src="/assets/images/room-1/4-thumb.jpg" alt="La chambre 1" class="img-fluid">
             </div>
         </div>
     </div>

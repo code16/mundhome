@@ -7,7 +7,7 @@
         <link rel="stylesheet" href="{{ mix('css/main.css', 'assets/build') }}">
     </head>
     <body>
-        <div class="container mt-2">
+        <div class="container mt-2" id="app">
             <a class="header text-center" href="/">
                 <div class="logo h1">le Mundhome</div>
                 <div class="baseline mt-2 mb-2">
@@ -40,7 +40,7 @@
                                 <a class="nav-link" href="#">situation</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="#">carte de fidélité</a>
+                                <a class="nav-link" href="/fidelite">carte de fidélité</a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" href="#">nous contacter</a>
