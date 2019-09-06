@@ -7,17 +7,15 @@
         <link rel="stylesheet" href="{{ mix('css/main.css', 'assets/build') }}">
     </head>
     <body>
-    @extends('_layouts.master')
-
         <div class="container mt-2">
-            <div class="header text-center">
+            <a class="header text-center" href="/">
                 <div class="logo h1">le Mundhome</div>
                 <div class="baseline mt-2 mb-2">
                     <div class="font-weight-bold">Chambres d'hôtes</div>
                     <div><span class="font-weight-bold">de confort</span> à Mundolsheim</div>
                     <div>Eurométropole Strasbourg</div>
                 </div>
-            </div>
+            </a>
 
             <div class="menu">
                 <nav class="navbar navbar-expand-lg navbar-light bg-light">

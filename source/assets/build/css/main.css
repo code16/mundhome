@@ -9718,6 +9718,11 @@ h3 {
     border-color: #dee2e6;
   }
 }
+.header {
+  text-decoration: none !important;
+  color: #343a40 !important;
+}
+
 .content {
   margin: auto;
   max-width: 700px;

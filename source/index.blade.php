@@ -1,7 +1,7 @@
 @extends('_layouts.master')
 
 @section('body')
-    <img src="/assets/images/exterior-main.jpg" alt="Le Mundhome" class="img-fluid">
+    <img src="/assets/images/home/hero.jpg" alt="Le Mundhome" class="img-fluid">
 
     <div class="content">
         <h1 class="page-title">Bienvenue</h1>
