@@ -37,13 +37,13 @@
                                 <a class="nav-link" href="/petit-dejeuner">petit-déjeuner</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="#">situation</a>
+                                <a class="nav-link" href="/situation">situation</a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" href="/fidelite">carte de fidélité</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="#">nous contacter</a>
+                                <a class="nav-link" href="/contact">nous contacter</a>
                             </li>
                         </ul>
                     </div>
