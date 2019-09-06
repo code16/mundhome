@@ -20,16 +20,24 @@
     <div class="ml-lg-5 pl-lg-5 pr-lg-5 mr-lg-5 mb-5">
         <div class="row m-auto">
             <div class="col-6 col-md-3 px-1 py-1">
-                <img src="/assets/images/home/room1.jpg" alt="La chambre 1" class="img-fluid">
+                <a href="/assets/images/room-1/1.jpg">
+                    <img src="/assets/images/room-1/1-thumb.jpg" alt="La chambre 1" class="img-fluid">
+                </a>
             </div>
             <div class="col-6 col-md-3 px-1 py-1">
-                <img src="/assets/images/home/room2.jpg" alt="La chambre 2" class="img-fluid">
+                <a href="/assets/images/room-2/1.jpg">
+                    <img src="/assets/images/room-2/1-thumb.jpg" alt="La chambre 2" class="img-fluid">
+                </a>
             </div>
             <div class="col-6 col-md-3 px-1 py-1">
-                <img src="/assets/images/home/room3.jpg" alt="La chambre 1 : salle de bains" class="img-fluid">
+                <a href="/assets/images/room-1/3.jpg">
+                    <img src="/assets/images/room-1/3-thumb.jpg" alt="La chambre 1 : salle de bains" class="img-fluid">
+                </a>
             </div>
             <div class="col-6 col-md-3 px-1 py-1">
-                <img src="/assets/images/home/room4.jpg" alt="La chambre 1" class="img-fluid">
+                <a href="/assets/images/room-1/4.jpg">
+                    <img src="/assets/images/room-1/4-thumb.jpg" alt="La chambre 1" class="img-fluid">
+                </a>
             </div>
         </div>
     </div>

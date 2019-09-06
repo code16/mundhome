@@ -16,6 +16,20 @@ $theme-colors: (
   a {
     text-decoration: underline;
   }
+
+  ul.bullets {
+    list-style: none;
+    padding-left: 1em;
+
+    li::before {
+      content: "\2022";
+      color: theme-color("primary");
+      font-weight: bold;
+      display: inline-block;
+      width: 1em;
+      margin-left: -1em;
+    }
+  }
 }
 
 .page-title {
