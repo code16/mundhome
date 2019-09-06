@@ -34,7 +34,7 @@
                                 <a class="nav-link" href="/chambre-2">la chambre 2</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="#">petit-déjeuner</a>
+                                <a class="nav-link" href="/petit-dejeuner">petit-déjeuner</a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" href="#">situation</a>
