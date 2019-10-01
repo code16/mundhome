@@ -3,7 +3,7 @@
 @section("title", "Contact | ")
 
 @section('body')
-    <img src="/assets/images/contact/hero.jpg" alt="Le Mundhome, nous contacter" class="img-fluid">
+    <img src="/assets/images/contact/hero2.jpg" alt="Le Mundhome, nous contacter" class="img-fluid">
 
     <div class="content">
         <h1 class="page-title">Nous contacter</h1>
@@ -25,7 +25,7 @@
 
         <p>
             ou bien en bus&nbsp;:
-            <br>de la Place des Halles (Strasbourg), prendre le bus 73 ou 75, arrêt Petite.
+            <br>de la Place des Halles (Strasbourg), prendre le bus 73 ou 75, arrêt Petite&nbsp;: la maison est à 50 mètres dans la même rue.
         </p>
 
         <p class="font-weight-bold">Réserver&nbsp;:</p>
@@ -38,6 +38,12 @@
 
         <p>
             <a href="mailto:info@lemundhome.fr">info@lemundhome.fr</a>
+        </p>
+
+        <p class="font-weight-bold">Partenaires&nbsp;:</p>
+
+        <p>
+            <a href="https://www.chambresdhotes.org/Detailed/517991.html">chambresdhotes.org</a>
         </p>
 
     </div>

@@ -56,8 +56,21 @@
         <h2 class="page-title">Le jardin</h2>
     </div>
 
-    <div class="text-center mt-5 mb-5">
-        <img src="/assets/images/house/garden.jpg" alt="Le jardin vu de la salle de petit déjeuner" class="img-fluid">
+    <div class="ml-lg-5 pl-lg-5 pr-lg-5 mr-lg-5 mb-5 mt-5">
+        <div class="row m-auto">
+            <div class="col-6 col-md-3 px-1 py-1">
+                <img v-img:group="{src:'/assets/images/house/garden/1.jpg'}" src="/assets/images/house/garden/1-thumb.jpg" alt="Le jardin du Mundhome" class="img-fluid">
+            </div>
+            <div class="col-6 col-md-3 px-1 py-1">
+                <img v-img:group="{src:'/assets/images/house/garden/2.jpg'}" src="/assets/images/house/garden/2-thumb.jpg" alt="Le jardin du Mundhome" class="img-fluid">
+            </div>
+            <div class="col-6 col-md-3 px-1 py-1">
+                <img v-img:group="{src:'/assets/images/house/garden/3.jpg'}" src="/assets/images/house/garden/3-thumb.jpg" alt="Le jardin du Mundhome" class="img-fluid">
+            </div>
+            <div class="col-6 col-md-3 px-1 py-1">
+                <img v-img:group="{src:'/assets/images/house/garden/4.jpg'}" src="/assets/images/house/garden/4-thumb.jpg" alt="Le jardin du Mundhome" class="img-fluid">
+            </div>
+        </div>
     </div>
 
     <div class="content">
@@ -74,6 +87,25 @@
             un bassin (en construction), les berges d’une rivière, un portique de jeux d’enfants
             et une petite piscine. Des animaux y vivent, poules, poissons, abeilles
             (qui produisent le «&nbsp;miel du Mundhome&nbsp;»).
+        </p>
+
+        <h2 class="page-title">Les alentours</h2>
+    </div>
+
+    <div class="text-center mt-5 mb-5">
+        <img src="/assets/images/house/around.jpg" alt="Les alentours" class="img-fluid">
+    </div>
+
+    <div class="content">
+        <p>
+            Vous pourrez flâner dans les rues calmes du village,
+            monter jusqu’à l’église protestante (site classé),
+            visible depuis la chambre 1.
+        </p>
+        <p>
+            De là, vous accédez au Fort Ducrot, au bord de la Piste des Forts,
+            pour des balades à pied, en footing ou en vélo (voyez avec le
+            propriétaire pour un prêt de vélo).
         </p>
     </div>
 @endsection
