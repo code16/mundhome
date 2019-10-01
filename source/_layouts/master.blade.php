@@ -26,13 +26,16 @@
 
             <div class="menu mb-3 mt-3 text-center">
                 <a href="/maison" class="{{ $page->selected('maison') }}">
-                    <span class="d-none d-sm-inline-block">la </span>maison
+                    <span class="d-none d-sm-inline-block">la</span>
+                    <span>maison</span>
                 </a>
                 <a href="/chambre-1" class="{{ $page->selected('chambre-1') }}">
-                    <span class="d-none d-sm-inline-block">la </span>chambre 1
+                    <span class="d-none d-sm-inline-block">la</span>
+                    <span>chambre 1</span>
                 </a>
                 <a href="/chambre-2" class="{{ $page->selected('chambre-2') }}">
-                    <span class="d-none d-sm-inline-block">la </span>chambre 2
+                    <span class="d-none d-sm-inline-block">la</span>
+                    <span>chambre 2</span>
                 </a>
                 <a href="/petit-dejeuner" class="{{ $page->selected('petit-dejeuner') }}">
                     petit-déjeuner

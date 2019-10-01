@@ -40,6 +40,7 @@
             <li>Wifi gratuit</li>
             <li>lit bébé sur simple demande</li>
             <li>animaux non admis</li>
+            <li>L’entrée est séparée, vous disposez des clés</li>
         </ul>
     </div>
 
