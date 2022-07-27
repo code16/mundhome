@@ -35,7 +35,7 @@
                         <div class="font-weight-bold">Strasbourg centre</div>
                         <div>
                             Les quartiers anciens, la cathédrale, la Petite France, la Neustadt, le Parlement européen…., sont accessibles sans voiture: par le bus, ou le train, ou par le parking relais très pratique.
-                            <a href="http://www.otstrasbourg.fr/fr/">Site de l’office de tourisme</a>.
+                            <a href="https://www.visitstrasbourg.fr">Site de l’office de tourisme</a>.
                         </div>
                     </div>
                 </div>

@@ -43,8 +43,8 @@
                 <a href="/situation" class="{{ $page->selected('situation') }}">
                     situation
                 </a>
-                <a href="/fidelite" class="d-none d-sm-inline-block {{ $page->selected('fidelite') }}">
-                    carte de fidélité
+                <a href="/reserver" class="d-none d-sm-inline-block {{ $page->selected('reserver') }}">
+                    réserver
                 </a>
                 <a href="/contact" class="{{ $page->selected('contact') }}">
                     <span class="d-none d-sm-inline-block">nous contacter</span>

@@ -29,7 +29,7 @@
 
         <p>Le prix inclut le petit-déjeuner et la taxe de séjour (0,55 € par personne et par jour).</p>
         <p>
-            La <a href="fidelite">carte de fidélité</a> est gratuite&nbsp;:
+            La <a href="/reserver">carte de fidélité</a> est gratuite&nbsp;:
             elle vous donne droit à une cinquième nuit gratuite, même pour un séjour
             en plusieurs fois, soit une remise de 20% sur le prix de votre séjour.
         </p>
