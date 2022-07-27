@@ -54,8 +54,14 @@
             <li>les séjours d’<strong>une seule nuit</strong> sont acceptés,</li>
             <li>la réservation se fait <strong>sans versement d’acompte</strong>, en confiance,</li>
             <li>le <strong>paiement par carte</strong> est accepté,</li>
-            <li>la <a href="" class="font-weight-bold">carte de fidélité</a> vous fait bénéficier d’une réduction de 20%.</li>
+            <li>la <a href="/reserver" class="font-weight-bold">carte de fidélité</a> vous fait bénéficier d’une réduction de 20%.</li>
         </ul>
+
+        <p class="text-center mt-5 mb-5">
+            <a class="btn" href="/reserver">
+                Réserver une chambre...
+            </a>
+        </p>
 
         <div class="small mt-5">
             <p>
